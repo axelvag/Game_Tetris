@@ -1,3 +1,6 @@
+![image](image/Tetris1.jpg)
+![image](image/Tetris2.jpg)
+
 # GrAPiC 
 
 ## Starting
