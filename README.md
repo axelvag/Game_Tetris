@@ -13,6 +13,15 @@ Here is my little project of a reproduction of the Tetris game in C++ with the g
 
 ⬅️​➡️​: Move the piece sideways
 
+# Starting
+
+- Install CodeBlocks (information at the bottom of this page)
+
+- Clone this repo
+```bash
+$ git clone https://github.com/axelvag/Game_Tetris
+```
+
 # GrAPiC 
 
 ## Starting
