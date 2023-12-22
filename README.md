@@ -1,5 +1,15 @@
+# Game Tetris
+
+Here is my little project of a reproduction of the Tetris game in C++ with the graphics library (GraPic).
+
 ![image](image/Tetris1.jpg)
 ![image](image/Tetris2.jpg)
+
+# Play
+
+⬆️​​: Turn the piece
+⬇️​: Lower the piece suddenly
+⬅️​➡️​: Move the piece sideways
 
 # GrAPiC 
 
